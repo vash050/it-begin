@@ -19,3 +19,7 @@
 @import url("../blocks/main/__background/main__background.css");
 @import url("../blocks/main/main.css");
 
+@import url("../blocks/news/news.css");
+@import url("../blocks/news/__articles/news__articles.css");
+@import url("../blocks/news/__content/news__content.css");
+@import url("../blocks/news/__forum/news__forum.css");
