@@ -3,6 +3,9 @@
 @import url("../blocks/root/__content/root__content.css");
 
 @import url("../blocks/buttons/_type/buttons_type_white.css");
+@import url("../blocks/buttons/_type/buttons_type_darkGray.css");
+
+@import url("../blocks/input/_type/input_type_white.css");
 
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__content/header__content.css");
@@ -23,3 +26,14 @@
 @import url("../blocks/news/__articles/news__articles.css");
 @import url("../blocks/news/__content/news__content.css");
 @import url("../blocks/news/__forum/news__forum.css");
+
+@import url("../blocks/footer/footer.css");
+@import url("../blocks/footer/__about/footer__about.css");
+@import url("../blocks/footer/__content/footer__content.css");
+@import url("../blocks/footer/__questions/footer__questions.css");
+@import url("../blocks/footer/__subscribe/footer__subscribe.css");
+@import url("../blocks/footer/__link/footer__link.css");
+@import url("../blocks/footer/__subscribe-title/footer__subscribe-title.css");
+@import url("../blocks/footer/__subscribe-input/footer__subscribe-input.css");
+@import url("../blocks/footer/__button/footer__button.css");
+@import url("../blocks/footer/__logo/footer__logo.css");

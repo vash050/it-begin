@@ -7,9 +7,10 @@
   font-style: normal;
   font-weight: 600;
 
-  /* DarkGray */
+  text-align: center;
 
-  color: #212121;
+  color: #000000;
+
 }
 
 .buttons_type_white:hover {
