@@ -1,0 +1,11 @@
+.button__registration__form {
+    position: absolute;
+    left: 128px;
+    top: 0px;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+.button__registration__form__img {
+    margin-right: 16px;
+}
