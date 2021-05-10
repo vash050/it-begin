@@ -1,0 +1,7 @@
+.account {
+  background-image: url("/static/img/bacground_acc.png");
+  height: calc(100vh - 100px);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
