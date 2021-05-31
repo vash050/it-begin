@@ -1,7 +1,4 @@
 .account__background {
-  background: rgba(0, 0, 0, 0.6);
-  backdrop-filter: blur(10px);
-  /* filter: blur(10px); */
   display: flex;
   flex-direction: column;
   width: 100%;

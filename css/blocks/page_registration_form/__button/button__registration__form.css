@@ -4,6 +4,8 @@
     top: 0px;
     color: #FFFFFF;
     font-size: 18px;
+    display: flex;
+    align-items: center;
 }
 
 .button__registration__form__img {

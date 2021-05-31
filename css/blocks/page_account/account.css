@@ -1,5 +1,5 @@
 .account {
-  background-image: url("/static/img/bacground_acc.png");
+  background-image: url("../../../img/background_acc.jpg");
   height: calc(100vh - 100px);
   background-repeat: no-repeat;
   background-size: cover;

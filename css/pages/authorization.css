@@ -14,5 +14,5 @@
 @import url("../blocks/page_authorization/authorization__button.css");
 @import url("../blocks/page_authorization/authorization__password__link.css");
 
-@import url("../blocks/registration_form/registration__form_checkbox.css");
-@import url("../blocks/registration_form/registration__form_checkmark.css");
+@import url("../blocks/page_registration_form/registration__form_checkbox.css");
+@import url("../blocks/page_registration_form/registration__form_checkmark.css");

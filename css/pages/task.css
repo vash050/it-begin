@@ -26,29 +26,11 @@
 @import url("../blocks/footer/__button/footer__button.css");
 @import url("../blocks/footer/__logo/footer__logo.css");
 
-@import url("../blocks/drop_block/drop_block.css");
-@import url("../blocks/drop_block/drop_caret.css");
+@import url("../blocks/page_task/task.css");
+@import url("../blocks/page_task/task__background.css");
+@import url("../blocks/page_task/task__header.css");
+@import url("../blocks/page_task/task__description.css");
+@import url("../blocks/page_task/task__description__p.css");
 
-@import url("../blocks/page_account/account__background.css");
-@import url("../blocks/page_account/account__header.css");
-@import url("../blocks/page_account/account__button.css");
-@import url("../blocks/page_account/account__information.css");
 
-/* @import url("../blocks/page_account/account__summary.css"); */
 
-@import url("../blocks/page_team/team__headline.css");
-@import url("../blocks/page_team/team__person.css");
-@import url("../blocks/page_team/team__vacancy__block.css");
-@import url("../blocks/page_team/team__summary.css");
-@import url("../blocks/page_team/team__forum.css");
-
-@import url("../blocks/page_teams/teams__buttons.css");
-@import url("../blocks/page_teams/teams.css");
-@import url("../blocks/page_teams/teams__block.css");
-@import url("../blocks/page_teams/teams__part.css");
-@import url("../blocks/page_teams/teams__part__logo.css");
-@import url("../blocks/page_teams/teams__pages__block.css");
-@import url("../blocks/page_teams/teams__pages.css");
-@import url("../blocks/page_teams/page__active.css");
-@import url("../blocks/page_teams/teams__drop.css");
-@import url("../blocks/page_teams/teams__summary.css");
